@@ -1,4 +1,4 @@
-# Employee Program (v1)
+# Employee Program 
 ## Help our factory in managing his employees. Create a program that does the following:
 ### Display the following choices:
 - Enter your choice:
